@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    place-items: center;
+  }
+  
+  .wrapper {
+    display: grid;
+    margin: 10;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    place-items: center;
+  }
+  
